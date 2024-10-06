@@ -15,13 +15,6 @@ A voting application is a software platform designed to facilitate secure and tr
 - MongoDB
 - JSON Web Tokens (JWT) for authentication
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Prince-1501/voting_app.git
-
 
 # API Endpoints
 
